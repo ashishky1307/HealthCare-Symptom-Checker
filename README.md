@@ -170,17 +170,7 @@ Health_Care/
 │   ├── tsconfig.json                # TypeScript config
 │   └── package.json                 # Node dependencies
 │
-├── tests/                           # Testing Suite
-│   ├── conftest.py                  # Pytest configuration
-│   ├── test_api_endpoints.py        # API endpoint tests
-│   └── requirements.txt             # Test dependencies
-│
-├── .env                             # Environment variables
-├── START_BACKEND.bat                # Windows backend launcher
-├── START_FRONTEND.bat               # Windows frontend launcher
-├── README.md                        # This file
-└── task.txt                         # Development notes
-```
+
 
 ---
 
